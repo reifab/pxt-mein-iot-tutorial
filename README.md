@@ -1,14 +1,12 @@
 
 > Diese Seite bei [https://reifab.github.io/pxt-mein-iot-tutorial/](https://reifab.github.io/pxt-mein-iot-tutorial/) öffnen
 
-## Als Erweiterung verwenden
+## Als Tutorial öffen
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
+Dieses Repository kann als **Tutorial** in MakeCode gestartet werden.
 
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/reifab/pxt-mein-iot-tutorial** suchen und importieren
+* öffne [Tutorial Smart Toilet](https://makecode.microbit.org/#tutorial:github:reifab/pxt-mein-iot-tutorial/docs/tutorials/smarttoilet)
+* arbeite die Schritte durch
 
 ## Dieses Projekt bearbeiten
 
