@@ -20,5 +20,5 @@ Ziel 2 ist es...
 
 
 ## Schritt 3
+![Bild](https://reifab.github.io/pxt-mein-iot-tutorial/static/tutorials/microbit-antenne.png)
 
-![Tutorialbild](/static/tutorial_1/microbit-antenne.png)
